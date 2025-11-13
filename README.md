@@ -1,2 +1,2 @@
-# Aurora-Cafe
+# Sunny Beans Cafe
 Project Store
